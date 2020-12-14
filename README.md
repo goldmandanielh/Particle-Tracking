@@ -1,4 +1,4 @@
-# goldman2020
+# Particle-Tracking
 MATLAB code for particle tracking, linking, co-localization and inspection.
 1) Separate each movie into green and red tif stacks.
 2) For each movie, give the green and red stacks a common name, with green stack filename ending in "_green.tif" and red ending in "_red.tif".
